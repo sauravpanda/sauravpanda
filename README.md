@@ -9,6 +9,6 @@ Welcome to my GitHub Profile!</br>
 
 ## My Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravpanda&count_private=true&show_icons=true&bg_color=45,000000,333333&text_color=FFFFFF&title_color=00ff00&icon_color=ffff33&count_private=true" width="425" />
+  <img align="center" src="https://github-readme-stats-sage-sigma.vercel.app/api?username=sauravpanda&count_private=true&show_icons=true&bg_color=45,000000,333333&text_color=FFFFFF&title_color=00ff00&icon_color=ffff33&count_private=true" width="425" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravpanda&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sage-sigma.vercel.app/api/top-langs/?username=sauravpanda&layout=compact&bg_color=45,000000,333333&title_color=00ff00&text_color=FFFFFF&count_private=true" />
