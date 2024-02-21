@@ -2,9 +2,9 @@
 
 Welcome to my GitHub Profile!</br>
 
-- Hello I am Saurav Panda, Currenlty pursuing my Master's in Connective Media (Information Technology) From **Cornell University, Cornell Tech, NYC, United States**. Originally from **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. 
+- Hello, my name is Saurav Panda and I am the co-founder and CEO of [Cloud Code AI](https://cloudcode.ai). Our company is dedicated to building an AI abstraction for cloud and DevOps, which enables developers to focus on building high-quality applications rather than managing their cloud resources.
 
-
+- Previously, I pursued my Master's in Connective Media (Information Technology) From **Cornell University, Cornell Tech, NYC, United States**. Originally from **India** <img src="https://www.countryflags.com/wp-content/uploads/india-flag-png-large.png" width="13"/>. 
 
 
 ## My Stats
