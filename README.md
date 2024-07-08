@@ -9,6 +9,6 @@ Hello. My name is Saurav Panda, and I am the co-founder and CEO of [Cloud Code A
 
 ## My Stats
 
-![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sauravpanda&include_orgs=true&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sauravpanda&include_orgs=true&show_icons=true&count_private=true)
 
-![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sauravpanda&include_orgs=true&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sauravpanda&include_orgs=true&show_icons=true&count_private=true)
