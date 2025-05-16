@@ -11,4 +11,4 @@ Hello. My name is Saurav Panda, and I am building [BrowserAI](https://browserai.
 
 ![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sauravpanda&include_orgs=true&show_icons=true&count_private=true)
 
-![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sauravpanda&include_orgs=true&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sauravpanda&include_orgs=true&show_icons=true&count_private=true&hide=g-code)
